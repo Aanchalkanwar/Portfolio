@@ -33,16 +33,9 @@ This portfolio highlights my projects, skills, and ways to connect with me.
 - **Projects** – My featured works  
 - **Contact** – Ways to connect with me  
 
----
-
-## 📸 Preview
-![Portfolio Screenshot](./screenshot.png)  
-*(Add a screenshot of your site and rename it to `screenshot.png` in your repo)*
 
 ---
 
-## ⚡ Getting Started
-If you want to run this project locally:
 
 
 
